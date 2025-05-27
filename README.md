@@ -1,16 +1,22 @@
-# untitled
+# Compteur Flutter
 
-A new Flutter project.
+## Description
 
-## Getting Started
+Cette application Flutter est un simple compteur qui permet aux utilisateurs d'incrémenter, de décrémenter et de réinitialiser un compteur. C'est un projet idéal pour apprendre les bases de Flutter et de la gestion d'état.
 
-This project is a starting point for a Flutter application.
+## Fonctionnalités
 
-A few resources to get you started if this is your first Flutter project:
+- Incrémenter le compteur.
+- Décrémenter le compteur.
+- Réinitialiser le compteur à zéro.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Utilisées
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** : Framework pour le développement d'applications mobiles.
+- **Dart** : Langage de programmation utilisé pour écrire l'application.
+
+## Installation
+
+### Prérequis
+
+Assurez-vous d'avoir installé [Flutter] et [Dart] sur votre machine.

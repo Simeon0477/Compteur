@@ -41,7 +41,23 @@ class _CounterPageState extends State<CounterPage> {
                   counter++;
                 });
               },
-              child: Text('Appuyer ici'),
+              child: Text('Incrémenter'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                setState(() {
+                  counter--;
+                });
+              },
+              child: Text('Décrémenter'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                setState(() {
+                  counter = 0;
+                });
+              },
+              child: Text('Reinitialiser'),
             ),
           ],
         ),
